@@ -1,1 +1,7 @@
 .ipynb_checkpoints
+.vscode
+.idea
+
+# related to CNN Project: Dog Breed Classifier
+project-dog-classification/dogImages
+project-dog-classification/lfw
