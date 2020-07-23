@@ -5,3 +5,5 @@
 # related to CNN Project: Dog Breed Classifier
 project-dog-classification/dogImages
 project-dog-classification/lfw
+project-dog-classification/additional_test_images
+project-dog-classification/*.pt
